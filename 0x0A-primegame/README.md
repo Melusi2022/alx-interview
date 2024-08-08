@@ -1,4 +1,4 @@
-me
+Prime Game
 About this project:
  0. Prime Game
 0-prime_game.py contains the solution to the following challenge:
